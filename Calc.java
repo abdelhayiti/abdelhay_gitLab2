@@ -4,6 +4,9 @@ public class Calc{
 		int index= args.length;
 		if(index < 3 || index > 3){
 			System.out.println("please enter 3 arguments");
+
+			System.out.println("dev branch abdelhay");
+
 		}else{
 			int operand1= Integer.parseInt(args[0]);
 			int operand2= Integer.parseInt(args[2]);
