@@ -1,6 +1,7 @@
 public class Calc{
 	public static void main(String[] args){
 			// hello
+		// hello
 		int index= args.length;
 		if(index < 3 || index > 3){
 			System.out.println("please enter 3 arguments");
