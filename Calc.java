@@ -6,6 +6,8 @@ public class Calc{
 			System.out.println("please enter 3 arguments");
 
 			System.out.println("dev branch abdelhay");
+			System.out.println("test branch abdelhay");
+
 
 		}else{
 			int operand1= Integer.parseInt(args[0]);
